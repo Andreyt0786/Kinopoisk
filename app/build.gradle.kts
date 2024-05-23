@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "tinkoff.fintech.lab"
+    namespace = "kinopoisk.lab"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "tinkoff.fintech.lab"
+        applicationId = "kinopoisk.lab"
         minSdk = 25
         targetSdk = 34
         versionCode = 1

@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "tinkoff-fintech-lab"
+rootProject.name = "kinopoisk"
 include(":app")
